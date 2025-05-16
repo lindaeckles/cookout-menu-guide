@@ -23,7 +23,7 @@ Stay updated with real prices, seasonal items, and secret menu favorites!
 
 ## 🔗 Resources
 
-- Full Menu: [https://www.mycookoutmenu.com](https://www.mycookoutmenu.com)  
+- Full Menu: [Cookout BBQ, Cookout Quesadilla etc.](https://www.mycookoutmenu.com/cookout-bbq-menu)  
 - Milkshake List: [Milkshake Flavors Guide](https://www.mycookoutmenu.com/cookout-milkshakes-menu)  
 - Locations: [Find a Cook Out Near You](https://www.mycookoutmenu.com/cookout-locations-us)
 
@@ -33,5 +33,5 @@ Stay updated with real prices, seasonal items, and secret menu favorites!
 
 ---
 
-**Published by [MyCookOutMenu.com](https://www.mycookoutmenu.com)** – Your #1 source for fast food menus and prices.
+**Published by [MyCookOutMenu and Price](https://www.mycookoutmenu.com/cookout-north-carolina/)** – Your #1 source for fast food menus and prices.
 
