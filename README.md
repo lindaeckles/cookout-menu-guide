@@ -6,7 +6,7 @@ Welcome to the unofficial GitHub repo for **Cook Out menu lovers!** 🍔🍟
 
 Get accurate and up-to-date info about **Cook Out trays, milkshake flavors, and menu prices** – all organized for easy access.
 
-📌 **View the complete 2025 Cook Out Menu on [MyCookOutMenu.com](https://www.mycookoutmenu.com)**  
+📌 ** [View the complete 2025 Cook Out Menu](https://www.mycookoutmenu.com)**  
 Stay updated with real prices, seasonal items, and secret menu favorites!
 
 ---
